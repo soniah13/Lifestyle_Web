@@ -1,0 +1,6 @@
+{
+  "name": "Life Web",
+  "description": "Personal life-management tool based on an interactive, interconnected node graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
